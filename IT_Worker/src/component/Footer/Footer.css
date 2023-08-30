@@ -1,0 +1,31 @@
+.fa-facebook-f{
+    padding: 12px;
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    border-radius: 50%;
+}
+
+.fa-instagram{
+    padding: 12px;
+    background-color: rgb(196, 29, 146);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    border-radius: 50%;
+}
+
+.fa-pinterest{
+    padding: 12px;
+    background-color: red;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    border-radius: 50%;
+}
+
+.fa-envelope{
+    padding: 12px;
+    background-color: green;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    border-radius: 50%;
+}
